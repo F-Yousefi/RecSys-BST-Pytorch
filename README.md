@@ -23,4 +23,5 @@ As you can see, the diagram below is representing the whole architecture of the 
 <br>
 <p align="center">
   <img src="./images/graphical_architecture.jpg" alt="graphical_architecture.jpg" width="500" >
+  <img src="./images/graphical_architecture.jpg" alt="graphical_architecture.jpg" width="500" >
 </p>
