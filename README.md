@@ -1,3 +1,4 @@
+<img src="./images/header" >
 MovieLens.org | Bob Liu
 
 # Movie Recommendation System
