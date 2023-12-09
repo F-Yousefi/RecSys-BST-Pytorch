@@ -1,4 +1,4 @@
-<img src="./images/header" >
+<img src="./images/header.png" alt="header.png" width="1000" >
 MovieLens.org | Bob Liu
 
 # Movie Recommendation System
