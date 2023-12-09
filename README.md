@@ -34,4 +34,5 @@ As you can see, the diagram below is representing the whole architecture of the 
 ## References 
 This project is built thanks to the valueable information that I have found through the references that i have listed below.
 >  Qiwei Chen, Huan Zhao, Wei Li, Pipei Huang, and Wenwu Ou. 2019. Behavior sequence transformer for e-commerce recommendation in Alibaba. [1](https://arxiv.org/pdf/1905.06874.pdf)
+
 > Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin. Attention Is All You Need.[2](https://arxiv.org/abs/1706.03762)
