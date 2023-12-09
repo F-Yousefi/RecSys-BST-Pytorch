@@ -17,7 +17,9 @@ The dataset will be automatically downloaded as you run the main .ipynb file.
 ## Architecture 
 #### Papers
 This project is implemented based on two breakthrough papers [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://arxiv.org/abs/1905.06874) and [Attention is all you need](https://arxiv.org/abs/1706.03762). For more information and acquiring a better understanding of the project, you can consult these papers.
-#### Graphical Architecture
 
+#### Graphical Architecture
+As you can see, the diagram below is representing the whole architecture of the model used in this project.
+<img src="./images/graphical_architecture.jpg">
 
 
