@@ -20,6 +20,8 @@ This project is implemented based on two breakthrough papers [Behavior Sequence 
 
 #### Graphical Architecture
 As you can see, the diagram below is representing the whole architecture of the model used in this project.
-<img src="./images/graphical_architecture.jpg">
+<center><br>
+  <img src="./images/graphical_architecture.jpg" alt="graphical_architecture.jpg" width="200" >
+</center>
 
 
