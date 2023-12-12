@@ -1,4 +1,4 @@
-<img src="./images/banner.PNG" alt="banner.PNG" width="100%" href="https://www.nobelprize.org/prizes/peace/2023/mohammadi/facts/">
+<a href="https://www.nobelprize.org/prizes/peace/2023/mohammadi/facts/"> <img src="./images/banner.PNG" alt="banner.PNG" width="100%" ></a>
 <img src="./images/header.jpg" alt="header.jpg" width="1000" >
 MovieLens.org | Bob Liu
 
